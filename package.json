@@ -1,0 +1,24 @@
+{
+  "name": "promotions_api",
+  "version": "0.0.1",
+  "homepage": "https://github.com/JosephHale23/Promotions_API",
+  "author": {
+    "name": "Joseph Hale",
+    "email": "Joseph.Hale@live.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosephHale23/Promotions_API"
+  },
+  "engines": {
+    "node": "7.9.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cfenv": "^1.0.3",
+    "express": "^4.14.0",
+    "express-basic-auth": "^1.1.1",
+    "mongoose": "^4.5.10",
+    "path": "^0.12.7"
+  }
+}

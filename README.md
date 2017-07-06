@@ -1,1 +1,1 @@
-# Promotion_API
+Promotion API with OpenUI5 layer

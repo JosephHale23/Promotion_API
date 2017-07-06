@@ -1,0 +1,11 @@
+---
+applications:
+- name: promotions_api
+  buildpack: nodejs_buildpack
+  command: node app.js
+  memory: 128M
+  disk_quota: 128M
+  host: DandJBikes
+  services:
+  - mongodb-nemo-promotions-service
+  
