@@ -1,6 +1,6 @@
 {
   "name": "promotions_api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/JosephHale23/Promotions_API",
   "author": {
     "name": "Joseph Hale",
@@ -11,7 +11,7 @@
     "url": "https://github.com/JosephHale23/Promotions_API"
   },
   "engines": {
-    "node": "7.9.0"
+    "node": "7.10.1"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
